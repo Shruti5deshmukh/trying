@@ -1,0 +1,4 @@
+Name: shruti
+class:TE
+subject:Wad
+description:file 1
